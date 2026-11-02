@@ -1,0 +1,11 @@
+[
+  {
+    "source_ip": "192.168.1.105",
+    "failed_attempts": 5,
+    "window_minutes": 5,
+    "first_seen": "2026-11-02T09:10:01",
+    "last_seen": "2026-11-02T09:11:25",
+    "severity": "High",
+    "alert": "Repeated failures followed by a success"
+  }
+]

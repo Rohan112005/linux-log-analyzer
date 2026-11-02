@@ -1,0 +1,2 @@
+source_ip,failed_attempts,window_minutes,first_seen,last_seen,severity,alert
+192.168.1.105,5,5,2026-11-02 09:10:01,2026-11-02 09:11:25,High,Repeated failures followed by a success
